@@ -64,7 +64,6 @@ alias archive='web_search archive'
 alias scholar='web_search scholar'
 
 #add your own !bang searches here
-alias wiki='web_search duckduckgo \!w'
 alias news='web_search duckduckgo \!n'
 alias youtube='web_search duckduckgo \!yt'
 alias map='web_search duckduckgo \!m'
